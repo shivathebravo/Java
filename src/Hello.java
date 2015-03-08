@@ -11,6 +11,7 @@ public class Hello {
 		int j=a;
 		System.out.println("Hello World");                                    
 		System.out.print("Hello World2");
+		System.out.print("hello world3");
 	}
 
 }
